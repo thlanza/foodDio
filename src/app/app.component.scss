@@ -1,0 +1,25 @@
+
+
+.navbar {
+  box-shadow: 10px 5px 5px #662e1c;
+  background-color: #af4425;
+  color: #ebdcb2;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.container {
+  background: url('./assets/comida.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+* {
+  font-family: 'Inknut Antiqua', serif;
+}
+
+
